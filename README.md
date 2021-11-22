@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sneha961
+- 👋 Hi, I’m Sneha
 - 👀 I’m interested in everything data
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ML/AI projects
