@@ -1,1 +1,18 @@
+bundle:
+  name: sample_bundle
 
+variables:
+  test_variable:
+    description: target_job
+
+include:
+  - ./resources/*.yml
+
+targets:
+  test_env:
+    workspace:
+      host: https://dbc-d275714b-89cf.cloud.databricks.com/browse?o=7474650011622558
+
+  prod_env:
+    workspace:
+      host: https://dbc-d275714b-89cf.cloud.databricks.com/browse?o=7474650011622558
